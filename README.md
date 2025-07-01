@@ -1,4 +1,5 @@
-## Discord VK Music RPC
+## Discord VK Music RPC [Исправленный]
+Оригинальный гит: https://github.com/D3rise/discord-vkmusic
 Отображение текущего трека из VK в профиле Discord
 
 #### Инструкция
