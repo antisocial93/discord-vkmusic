@@ -3,6 +3,9 @@
 
 Отображение текущего трека из VK в профиле Discord
 
+Пример Rich Presence в профиле:  
+![Пример Rich Presence](./assets/example.png)
+
 #### Инструкция
 
 **_Подготовка:_**
@@ -33,6 +36,3 @@ Linux:
 1. Установите Python 3.7 (команда для Debian-подобных систем: `sudo apt-get install python3.7`)  
 2. Установите зависимости из requirements.txt (пример команды: `sudo pip3 install -r requirements.txt`)  
 3. Выполните команду `python3 main.py` (если у вас несколько версий Python 3 - замените последнюю цифру на версию, которая позднее или является 3.6)  
-
-Пример Rich Presence в профиле:  
-![Пример Rich Presence](./assets/example.png)
