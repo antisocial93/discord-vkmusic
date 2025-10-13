@@ -1,3 +1,5 @@
 vk_api
 chardet
 pypresence
+pystray
+urllib3==1.26.6
